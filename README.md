@@ -1,7 +1,7 @@
-# AIM1 project "NiteOut"
+# MeetArea"
 
-[![Build Status (master)](https://travis-ci.org/hielsnoppe/edu-aim1.svg?branch=master)](https://travis-ci.org/hielsnoppe/edu-aim1)
-[![Build Status (develop)](https://travis-ci.org/hielsnoppe/edu-aim1.svg?branch=develop)](https://travis-ci.org/hielsnoppe/edu-aim1)
+<!--[![Build Status (master)](https://travis-ci.org/hielsnoppe/edu-aim1.svg?branch=master)](https://travis-ci.org/hielsnoppe/edu-aim1)
+[![Build Status (develop)](https://travis-ci.org/hielsnoppe/edu-aim1.svg?branch=develop)](https://travis-ci.org/hielsnoppe/edu-aim1)-->
 
 A personal request:
 
